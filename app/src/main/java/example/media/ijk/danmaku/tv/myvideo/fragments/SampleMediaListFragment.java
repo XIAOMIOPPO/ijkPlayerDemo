@@ -68,13 +68,13 @@ public class SampleMediaListFragment extends Fragment {
             }
         });
 
-        mAdapter.addItem("http://api.4949899.com:81/qyuleapi/800/", "3d高清hentai日本卡通-精子分析");
-        mAdapter.addItem("http://api.4949899.com:81/qyuleapi/826/", "高清日本3d卡通-终极性幻想-之tidus-和-yuna");
-        mAdapter.addItem("http://api.4949899.com:81/qyuleapi/853/", "3d卡通-迷幻催眠性爱术");
-        mAdapter.addItem("http://api.4949899.com:81/qyuleapi/1099/", "sfm高清3d动漫集锦");
-        mAdapter.addItem("http://api.4949899.com:81/qyuleapi/1112/", "3d卡通-初女的唯美性体验");
-        mAdapter.addItem("http://api.4949899.com:81/qyuleapi/1160/", "初一学妹菜里香的嫩穴");
-        mAdapter.addItem("http://www.btbtdy.com/9f9f3564-9382-4742-947f-313ff8b32790", "复仇者联盟3");
+        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8", "bipbop basic master playlist");
+        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8", "bipbop basic 400x300 @ 232 kbps");
+        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear2/prog_index.m3u8", "bipbop basic 640x480 @ 650 kbps");
+        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear3/prog_index.m3u8", "bipbop basic 640x480 @ 1 Mbps");
+        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear4/prog_index.m3u8", "bipbop basic 960x720 @ 2 Mbps");
+        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8", "bipbop basic 22.050Hz stereo @ 40 kbps");
+        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8", "bipbop advanced master playlist");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear1/prog_index.m3u8", "bipbop advanced 416x234 @ 265 kbps");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear2/prog_index.m3u8", "bipbop advanced 640x360 @ 580 kbps");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/gear3/prog_index.m3u8", "bipbop advanced 960x540 @ 910 kbps");
